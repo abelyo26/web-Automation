@@ -1,2 +1,2 @@
 # web-Automation
-web automation using pupteer nodejs
+web automation using puppeteer nodejs
